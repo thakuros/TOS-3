@@ -1,5 +1,5 @@
 # TOS-3
 
-ping issue solved
+splash + ref chnage
 
 now can build ISO with ./build.sh
