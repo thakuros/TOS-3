@@ -1,7 +1,7 @@
 # TOS-3
 
-ThakurOS version 0.2
-Notes: (vx.2) - ThakurOS Live Environment with stock KDE plasma
+ThakurOS version 0.3
+Notes: (vx.3) - ThakurOS Live Environment with stock KDE plasma
 
 Project restarted with following new update of ArchISO
 
