@@ -26,9 +26,8 @@ echo "                               "
 echo "================================================================"
 echo "Making Thakur OS bootable ISO, this may take sometime...."
 cd out
-sudo dd if=thakuros-$(date +%Y.%m.%d).iso of=/dev/sdb status='progress'
+sudo dd if=thakuros-$(date +%Y.%m.%d)-x86_64.iso of=/dev/sdb status='progress'
 
 
 echo "D O N E! Your USB should be bootable now, with Thakur OS."
 echo "Thank YOU!"
-
