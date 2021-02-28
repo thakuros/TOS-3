@@ -7,6 +7,10 @@
 #RUN AT YOUR OWN RISK.
 #=================================================================================
 
+#This script generates essential symbolic links, manually to add in the development
+#of an Arch Linux based system. Here we by default generate symlinks for a display
+#manager (SDDM) and NetworkManager. We also set our default target to be graphical.
+
 #General Instruction: Use a text editor to find and replace all instances of 
 #'your-work-directory' to the path of your work directory. Make sure to copy 
 #path till airootfs folder only.
