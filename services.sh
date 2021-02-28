@@ -11,6 +11,9 @@
 #'your-work-directory' to the path of your work directory. Make sure to copy 
 #path till airootfs folder only.
 
+#Misc Instruction: You can add services, for example bluetooth(bleuz) or 
+#printing service(cups), samba, avahi, ssh, all here, manually.
+
 echo "This Script will generate symlinks..."
 echo "-------------------------------------"
 echo "Running systemctl enable SDDM"
