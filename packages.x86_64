@@ -107,6 +107,7 @@ zsh
 
 #TOS KDE Plasma
 plasma
+xorg
 sddm
 bash-completion
 networkmanager
