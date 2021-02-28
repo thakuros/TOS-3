@@ -104,3 +104,16 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+#TOS KDE Plasma
+plasma
+sddm
+bash-completion
+networkmanager
+
+#System Tools
+konsole
+kate
+dolphin
+dolphin-plugins
+xdg-user-dirs
